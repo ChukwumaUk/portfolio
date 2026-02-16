@@ -66,7 +66,7 @@ export default function HeroSlideOne() {
             rel="noopener noreferrer"
             className="p-1.5 sm:p-2 rounded-full hover:bg-black/5 dark:hover:bg-white/10 transition"
           >
-            <item.Icon className="w-4 h-4 sm:w-5 sm:h-5 mb-10" />
+            <item.Icon className="w-4 h-4 sm:w-5 sm:h-5" />
           </a>
         ))}
       </div>
