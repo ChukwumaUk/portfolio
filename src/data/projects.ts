@@ -1,11 +1,11 @@
 import type { Project } from "@/types/project"
-import SiteBuilder from "@/assets/images/sitebuilder.png";
 import Movie from "@/assets/images/movie.png";
-import Crypto from "@/assets/images/cryptoapp.png";
+import Crypto from "@/assets/images/crypto-app.png";
 import Music from "@/assets/images/music-box.png";
 import News from "@/assets/images/news-website.png";
 import Classroom from "@/assets/images/classroom-management.png";
 import Blog from "@/assets/images/blog.png";
+import WebsiteBuilder from "@/assets/images/site-builder.png"
 
 export const projects: Project[] = [
   {
@@ -14,7 +14,7 @@ export const projects: Project[] = [
       "An AI-powered website generator that transforms user prompts into fully functional websites in seconds. Features a credit-based monetization system with seamless Paystack integration for secure payments and scalable revenue handling.",
     tech: ["React", "Tailwind", "Node.js", "Express", "Neon(Postgres)", "Prisma"],
     link: "https://ai-website-builder-omega-indol.vercel.app/",
-    image: SiteBuilder,
+    image: WebsiteBuilder
   },
   {
     title: "Movie Recommendation Site",
