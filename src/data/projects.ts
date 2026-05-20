@@ -5,7 +5,9 @@ import Music from "@/assets/images/music-box.png";
 import News from "@/assets/images/news-website.png";
 import Classroom from "@/assets/images/classroom-management.png";
 import Blog from "@/assets/images/blog.png";
-import WebsiteBuilder from "@/assets/images/site-builder.png"
+import WebsiteBuilder from "@/assets/images/site-builder.png";
+import NoteApp from "@/assets/images/note-app.png";
+import LoomClone from "@/assets/images/loom_clone.png";
 
 export const projects: Project[] = [
   {
@@ -15,6 +17,22 @@ export const projects: Project[] = [
     tech: ["React", "Tailwind", "Node.js", "Express", "Neon(Postgres)", "Prisma"],
     link: "https://ai-website-builder-omega-indol.vercel.app/",
     image: WebsiteBuilder
+  },
+  {
+    title: "Full-Stack Note Taking App",
+    description:
+      "A modern note management platform with secure user authentication powered by NextAuth.js, supporting both credential-based sign-up and GitHub OAuth login. Authenticated users access a personalized dashboard to create, edit, and delete notes through a clean, responsive interface.",
+    tech: ["Next.js 16", "TypeScript", "Tailwind CSS", "NextAuth.js"],
+    link: "https://note-taking-app-lake-three.vercel.app/",
+    image: NoteApp,
+  },
+  {
+    title: "Loom-Inspired Screen Recorder",
+    description:
+      "A feature-rich screen recording platform with Google authentication, offering custom screen and microphone capture, AI-powered transcription and summaries, animated GIF thumbnails, MP4 downloads, and seamless video uploads to Mux with shareable video pages.",
+    tech: ["Next.js 16", "TypeScript", "Tailwind CSS", "Mux", "NextAuth.js"],
+    link: "https://screen-recorder-liart-five.vercel.app/",
+    image: LoomClone,
   },
   {
     title: "Movie Recommendation Site",
