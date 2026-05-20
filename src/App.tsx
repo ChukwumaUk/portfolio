@@ -5,6 +5,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects/Projects";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
+import Certifications from "./components/Certifications";
 import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/react";
 
@@ -19,6 +20,7 @@ export default function App() {
         <Skills />
         <Projects />
         <Experience />
+        <Certifications />
         <Contact />
         <Footer />
         <Analytics />

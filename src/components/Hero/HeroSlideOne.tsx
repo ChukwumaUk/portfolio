@@ -29,9 +29,9 @@ export default function HeroSlideOne() {
       </p>
 
       <p className="max-w-2xl text-sm md:text-lg text-black/70 dark:text-white/70 mb-8 leading-relaxed">
-        I design and engineer high-performance digital products that merge elegant user experience with robust, 
-        scalable backend architecture. From concept to deployment, I build software that doesn’t just work — it drives measurable business results.
-        
+        I design and engineer high-performance digital products that pair elegant user experience with robust, scalable architecture.
+        Working at the frontier of AI-augmented development with Claude Code and modern coding agents,
+        I ship software faster — and build systems that don’t just work, but drive measurable business results.
       </p>
 
       {/* CTA Buttons */}

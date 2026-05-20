@@ -23,14 +23,19 @@ export default function About() {
             </p>
 
             <p>
-              What began as curiosity about how systems work has evolved into expertise across modern technologies including React, 
-              TypeScript, Node.js, Postgres, Python, and cloud infrastructure. I design and deliver applications that are not only functional, 
-              but reliable, maintainable, and built for growth.
+              What began as curiosity about how systems work has evolved into expertise across modern technologies including
+              React, Next.js, TypeScript, Node.js, Postgres, Python, and cloud infrastructure. I design and deliver applications
+              that are not only functional, but reliable, maintainable, and built for growth.
             </p>
 
             <p>
-              
-              Beyond coding, I mentor entrepreneurs, explore emerging technologies, and write technical insights. 
+              I work at the intersection of human craftsmanship and AI-augmented engineering — using Claude Code as my primary
+              coding agent alongside Cursor, Codex, and Copilot to ship production software faster, without compromising on
+              quality, security, or architectural rigor.
+            </p>
+
+            <p>
+              Beyond coding, I mentor entrepreneurs, explore emerging technologies, and write technical insights.
               I’m also an avid reader — constantly sharpening both technical and strategic thinking.
             </p>
           </div>
@@ -46,6 +51,7 @@ export default function About() {
               <li>RESTful API architecture & implementation</li>
               <li>Database design, optimization & performance tuning</li>
               <li>Cloud-native deployment & infrastructure management</li>
+              <li>AI-augmented development with Claude Code & modern coding agents</li>
             </ul>
           </div>
         </div>

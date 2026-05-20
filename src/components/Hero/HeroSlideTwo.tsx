@@ -27,8 +27,9 @@ export default function HeroSlideTwo() {
 
         <p className="text-sm md:text-base text-black/70 dark:text-white/70 mb-6">
           Beyond writing code, I understand business.
-          Having mentored 200+ entrepreneurs across Africa through the Google Hustle Academy program, 
-          I build technology aligned with strategy, growth, and real-world impact.
+          Having mentored 200+ entrepreneurs across Africa through the Google Hustle Academy program,
+          I build technology aligned with strategy, growth, and real-world impact —
+          delivered at the speed of AI-accelerated engineering.
         </p>
 
 

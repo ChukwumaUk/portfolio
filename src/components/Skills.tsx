@@ -3,10 +3,11 @@ import { Code, Server } from "lucide-react";
 // Skill data
 const frontendSkills = [
   "React",
-  "CSS3",
+  "Next.js",
   "Typescript",
-  "HTML5",
   "Javascript",
+  "HTML5",
+  "CSS3",
   "Tailwind CSS",
   "Shadcn/UI",
 ];
